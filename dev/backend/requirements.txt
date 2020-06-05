@@ -19,7 +19,7 @@ debtagshw==0.1
 defer==1.0.6
 demjson==2.2.4
 dirspec==13.10
-Django==1.9.4
+Django==1.11.29
 django-cors-headers==1.1.0
 django-filter==0.12.0
 djangorestframework==3.3.2
